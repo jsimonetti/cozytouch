@@ -1684,6 +1684,7 @@
     "type": "away_mode_timestamps"
    },
    "227": {
+    "capabilityDuplicate": 152,
     "capabilityId": 227,
     "category": "sensor",
     "icon": "mdi:airplane",
@@ -4923,6 +4924,7 @@
     "type": "away_mode_timestamps"
    },
    "227": {
+    "capabilityDuplicate": 152,
     "capabilityId": 227,
     "category": "sensor",
     "icon": "mdi:airplane",
@@ -8158,6 +8160,7 @@
     "type": "away_mode_timestamps"
    },
    "227": {
+    "capabilityDuplicate": 152,
     "capabilityId": 227,
     "category": "sensor",
     "icon": "mdi:airplane",
@@ -11409,6 +11412,7 @@
     "type": "away_mode_timestamps"
    },
    "227": {
+    "capabilityDuplicate": 152,
     "capabilityId": 227,
     "category": "sensor",
     "icon": "mdi:airplane",
@@ -14638,6 +14642,7 @@
     "type": "away_mode_timestamps"
    },
    "227": {
+    "capabilityDuplicate": 152,
     "capabilityId": 227,
     "category": "sensor",
     "icon": "mdi:airplane",
@@ -17942,6 +17947,7 @@
     "type": "away_mode_timestamps"
    },
    "227": {
+    "capabilityDuplicate": 152,
     "capabilityId": 227,
     "category": "sensor",
     "icon": "mdi:airplane",
@@ -21155,6 +21161,7 @@
     "type": "away_mode_timestamps"
    },
    "227": {
+    "capabilityDuplicate": 152,
     "capabilityId": 227,
     "category": "sensor",
     "icon": "mdi:airplane",
@@ -24406,6 +24413,7 @@
     "type": "away_mode_timestamps"
    },
    "227": {
+    "capabilityDuplicate": 152,
     "capabilityId": 227,
     "category": "sensor",
     "icon": "mdi:airplane",
@@ -27634,6 +27642,7 @@
     "type": "away_mode_timestamps"
    },
    "227": {
+    "capabilityDuplicate": 152,
     "capabilityId": 227,
     "category": "sensor",
     "icon": "mdi:airplane",
@@ -30898,6 +30907,7 @@
     "type": "away_mode_timestamps"
    },
    "227": {
+    "capabilityDuplicate": 152,
     "capabilityId": 227,
     "category": "sensor",
     "icon": "mdi:airplane",
@@ -34150,6 +34160,7 @@
     "type": "away_mode_timestamps"
    },
    "227": {
+    "capabilityDuplicate": 152,
     "capabilityId": 227,
     "category": "sensor",
     "icon": "mdi:airplane",
@@ -37396,6 +37407,7 @@
     "type": "away_mode_timestamps"
    },
    "227": {
+    "capabilityDuplicate": 152,
     "capabilityId": 227,
     "category": "sensor",
     "icon": "mdi:airplane",
@@ -40644,6 +40656,7 @@
     "type": "away_mode_timestamps"
    },
    "227": {
+    "capabilityDuplicate": 152,
     "capabilityId": 227,
     "category": "sensor",
     "icon": "mdi:airplane",

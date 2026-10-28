@@ -1627,6 +1627,7 @@ CAPABILITIES: dict[int, Entity] = {
             "value_on": "1",
             "value_pending": "2",
             "timestampsCapabilityId": 226,
+            "capabilityDuplicate": 152,
         },
     ),
     228: Entity(
